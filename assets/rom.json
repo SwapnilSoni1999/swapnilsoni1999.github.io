@@ -1,0 +1,26 @@
+[
+    {
+        "romName": "BlissROMs",
+        "path": "bliss",
+        "deviceData": [
+            {
+                "name": "mido",
+                "builds": [
+                    {
+                        "name": "Bliss-v11.3-Stable-mido-UNOFFICIAL-20181211-0726.zip",
+                        "url": "https://goo.gl/CuFKPu"
+                    }
+                ]
+            },
+            {
+                "name": "santoni",
+                "builds": [
+                    {
+                        "name": "Bliss-v11.3-Stable-santoni-UNOFFICIAL-20181216-2154.zip",
+                        "url": "https://goo.gl/F2GAZC"
+                    }
+                ]
+            }
+        ]
+    }
+]
