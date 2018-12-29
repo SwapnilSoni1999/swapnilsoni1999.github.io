@@ -22,5 +22,20 @@
                 ]
             }
         ]
+    },
+    {
+        "romName": "LineageOS",
+        "path": "lineage",
+        "deviceData": [
+            {
+                "name": "santoni",
+                "builds": [
+                    {
+                        "name": "lineage-16.0-20181228-UNOFFICIAL-santoni.zip",
+                        "url": "https://goo.gl/moiyrG"
+                    }
+                ]
+            }
+        ]
     }
 ]
